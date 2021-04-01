@@ -1,0 +1,7 @@
+{
+  "/momentum-active-shoppe/*": {
+    "target": "http://localhost:9011",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
